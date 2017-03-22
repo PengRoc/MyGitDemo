@@ -10,6 +10,7 @@
 
 @interface ViewController ()
 @property(strong,nonatomic)NSString *titleString;
+@property(strong,nonatomic)NSString *str;
 @end
 
 @implementation ViewController
